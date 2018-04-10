@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+/** P90 if文の利用 */
 public class Kasa1 {
 
   public static void main(String[] args) {

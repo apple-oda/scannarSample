@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+/** 標準入力の利用 */
 public class HowOldAreYou {
 
   public static void main(String[] args) {
